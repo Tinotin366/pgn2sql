@@ -1,0 +1,9 @@
+{
+  "MariaDB":{
+            "host":"localhost",
+            "port":3306,
+            "user":"user",
+            "password":"e4c5Cf3Cc6",
+            "database":"games"
+          }
+ }
